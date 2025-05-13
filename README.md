@@ -9,7 +9,7 @@ Meanwhile Chrome & Edge don't care, observe that the download target filename al
 
 My preferred browser behaviour for *any download* is to keep out of the way and be non-obstructive. FireFox / WaterFox / etc. *are obnoxious* in this regard as they throw alertboxes in my face about same-named files possibly already present in my `Downloads` directory as those were obtained elsewhere during the same session / day. I want Chrome/Edge auto-unique file naming behaviour from *everybody*! 
 
-This is my preferred behaviour as now I don't have to bother with **surprising** alert boxes about a same-named file already present in my downloads dir -- when I'm looking for PDFs and other material, *I do not care if I end up with a few maybe-duplicates, for I have quick & powerful tooling to deal with those afterwards, plus I don't want to be bothered with filenaming technicalities obstructing my workflow, just because several people on the 'net decided to name their download `download.pdf`, for example.*
+This is my preferred behaviour as now I don't have to bother with **surprising** alert boxes about a same-named file already present in my downloads dir -- when I'm looking for PDFs and other material, *I do not care if I end up with a few maybe-duplicates, for I have [quick & powerful tooling to deal with those afterwards](https://malich.ru/duplicate_searcher#download), plus I don't want to be bothered with filenaming technicalities obstructing my workflow, just because several people on the 'net decided to name their download `download.pdf`, for example.*
 
 
 
